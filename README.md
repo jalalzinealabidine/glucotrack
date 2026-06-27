@@ -125,3 +125,4 @@ This app should not calculate insulin doses or give treatment decisions. It only
 - Better report PDF design
 - Data import/export JSON
 - Doctor sharing link
+# glucotrack
